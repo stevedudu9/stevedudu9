@@ -1,10 +1,10 @@
-# Steve Dudu
+# Steve Ling Yuyang
 
-Data science and analytics practitioner building clear, practical tools for statistical learning, portfolio analytics, data quality, healthcare analytics, geospatial intelligence, and computer vision.
+**Statistics Undergraduate | Data Analytics | Statistical Learning | Machine Learning**
 
 ## About me
 
-I use statistical thinking and reproducible Python workflows to turn data into useful analysis and decision support. This profile brings together interactive applications and end-to-end machine-learning projects designed to be easy to review, run, and discuss.
+I am a statistics undergraduate building practical analytics and machine-learning applications. My work uses reproducible Python workflows, statistical thinking, and clear communication to turn data into analysis and decision support that is easy to review, run, and discuss.
 
 ## Skills and tech stack
 
@@ -29,7 +29,10 @@ More work: [data portfolio](https://github.com/stevedudu9/data-portfolio) · [cu
 
 ## Contact
 
-The best way to connect is through [GitHub](https://github.com/stevedudu9).
+- LinkedIn: [ADD LINKEDIN URL]
+- Email: [steveling30@gmail.com](mailto:steveling30@gmail.com)
+- Résumé: [ADD RESUME LINK]
+- GitHub: [stevedudu9](https://github.com/stevedudu9)
 
 ---
 
